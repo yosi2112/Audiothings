@@ -1,0 +1,40 @@
+[File Open]
+
+[Format Converter]
+Selection=0,-0,-1
+Channel=1
+Quality=1
+
+[1Point EQ]
+Parameter1=125
+Parameter2=0
+Parameter3=-3
+Parameter4=0
+Selection=0,-0,-1
+
+[Filter]
+Parameter1=0
+Parameter2=0
+Parameter3=160.347
+Parameter4=1.68
+Parameter6=1
+Parameter7=1
+Parameter8=20
+Parameter9=0
+Parameter10=0
+Selection=0,-0,-1
+
+[FIR Filter]
+Parameter1=100
+Parameter2=-100
+Parameter3=3.6819
+Parameter4=-21.2709
+Parameter5=1.3584
+Parameter6=-7.6987
+Parameter7=0.3824
+Parameter8=-4.2235
+Parameter9=0
+Selection=0,-0,-1
+
+[Normalize]
+Selection=0,-0,-1
